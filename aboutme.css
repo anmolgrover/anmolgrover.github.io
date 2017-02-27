@@ -1,0 +1,57 @@
+body{
+	background-image: url("img/lselse.jpg");
+}
+
+h1 {
+	border: red;
+	border-width: 10px;
+}
+
+.profilepic{
+	max-width: 100%;
+}
+
+.margin-cards{
+	margin-top: 20px;
+}
+
+.active-link{
+	color: link;
+}
+
+.card {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.fadeIn{
+	-webkit-animation-duration: 3s;
+	animation-duration: 3s;
+}
+
+
+.nav-link {
+    display: inline-block;
+    color:white;
+
+}
+
+.nav{
+	color: white;
+}
+
+.img-size{
+	width: 100%;
+}
+
+body {
+	background-image: url("../img/canarywhartnightpic.jpg");
+	background-size: cover;
+	background backface-visibility: 100px;
+
+}
+
+.container{
+	margin-top: 10px;
+	
+}

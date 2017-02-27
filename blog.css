@@ -1,0 +1,28 @@
+body {
+	background-image: url("../img/canarywhartnightpic.jpg");
+	background-size: cover;
+	background backface-visibility: 100px;
+}
+
+
+.nav-link {
+    display: inline-block;
+    color:white;
+
+}
+
+.fadeIn{
+	-webkit-animation-duration: 3s;
+	animation-duration: 3s;
+}
+
+.container{
+	margin-top: 10px;
+	
+}
+
+
+.container{
+	margin-top: 10px;
+	
+}
